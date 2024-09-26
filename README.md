@@ -65,6 +65,9 @@ OR
 yarn dsv # run only meteor (front and back) with pre-built packages
 ```
 
+
+
+
 After initialized, you can access the server at http://localhost:3000
 
 **Starting Rocket.Chat in microservices mode:**
